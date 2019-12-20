@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576720228 source:c:\users\hp\miot\statemachine1\pointer\main.cpp
+	<iostream>
+	<ctime>
+
