@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576584064 source:c:\users\hp\miot\statemachine1\statemachinetempreture\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+
